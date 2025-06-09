@@ -16,3 +16,4 @@ After setting up, I imported the basic Python libraries I needed like pandas for
 
 #output 
 
+![Image](https://github.com/user-attachments/assets/f8956603-74e8-4cbc-af1c-87a48d069625)
